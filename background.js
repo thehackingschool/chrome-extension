@@ -1,1 +1,1 @@
-console.log("Hai from Background JS");
+console.log("Hello from Background JS, console");
