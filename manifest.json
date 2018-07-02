@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Hello World",
-  "description": "Hacking School First Chrome Extension",
+  "description": "Hacking School Chrome Extension Boilerplate",
   "version": "1.0",
   "content_scripts" : [
     {
